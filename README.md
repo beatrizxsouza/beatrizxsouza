@@ -1,5 +1,5 @@
 - 👋 Hii, I’m @beatrizxsouza.
-- ## My profile is under construction. 
+- # My profile is under construction. 
 - 👀 I’m interested in backend languages.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 💞️ I’m looking to collaborate on with projects that help someone or contribute to a technological learning/advancement
